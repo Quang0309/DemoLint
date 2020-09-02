@@ -1,0 +1,3 @@
+include ':lint-rules'
+include ':app'
+rootProject.name = "lint"

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="lint/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-271978276/lint.iml" filepath="$PROJECT_DIR$/.idea/modules/-271978276/lint.iml" group="lint" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-743457344/lint-rules.iml" filepath="$PROJECT_DIR$/.idea/modules/-743457344/lint-rules.iml" group="lint/lint-rules" />
+    </modules>
+  </component>
+</project>
